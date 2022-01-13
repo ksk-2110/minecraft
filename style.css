@@ -1,0 +1,45 @@
+.body_background
+{
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 50px !important;
+	width: 200px;
+	padding: 5px;
+	font-size:37px !important;
+	color: black !important;
+ }
+h3
+{
+	display: inline-block;
+	color: darkblue !important;
+	font-weight: bold !important;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
